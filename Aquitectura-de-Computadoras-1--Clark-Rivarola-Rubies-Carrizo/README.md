@@ -1,1 +1,0 @@
-# Aquitectura-de-Computadoras-1

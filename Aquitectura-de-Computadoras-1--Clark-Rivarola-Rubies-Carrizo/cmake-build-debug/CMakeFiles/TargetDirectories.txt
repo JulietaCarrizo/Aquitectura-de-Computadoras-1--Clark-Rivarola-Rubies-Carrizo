@@ -1,3 +1,0 @@
-C:/Users/Usuario/Documents/UCC/TERCER AÑO/ARQUITECTURA DE COMPUTADORAS 1/proyectoAC/Aquitectura-de-Computadoras-1--Clark-Rivarola-Rubies-Carrizo/cmake-build-debug/CMakeFiles/Aquitectura_de_Computadoras_1__Clark_Rivarola_Rubies_Carrizo.dir
-C:/Users/Usuario/Documents/UCC/TERCER AÑO/ARQUITECTURA DE COMPUTADORAS 1/proyectoAC/Aquitectura-de-Computadoras-1--Clark-Rivarola-Rubies-Carrizo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Usuario/Documents/UCC/TERCER AÑO/ARQUITECTURA DE COMPUTADORAS 1/proyectoAC/Aquitectura-de-Computadoras-1--Clark-Rivarola-Rubies-Carrizo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
